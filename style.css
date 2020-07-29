@@ -17,13 +17,17 @@ header .header-logo {
     color: #111;
     display: block;
     font-family: arial, Helvetica, sans-serif;
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 600;
     margin: 0 0;
     padding: 10px;
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+header .header-logo:hover {
+    color: deeppink;
 }
 
 header nav ul {
