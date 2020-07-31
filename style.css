@@ -179,6 +179,26 @@ footer nav ul li a {
     .social-med-icons {
         text-align: right;
     }
+
+    main .wrapper {
+        margin: 0 auto;
+        width: 70%;
+    }
+
+    main .main-info {
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    main .main-info h3 {
+        font-size: 28px;
+    }
+
+    main .img-ashutosh {
+        margin: 0 auto;
+        width: 40%;
+        padding: 0 20px 0 20px;
+    }
 }
 
 /* PC Mode */
@@ -226,7 +246,7 @@ footer nav ul li a {
 
     main .main-info {
         float: right;
-        width: 65%;
+        width: 60%;
     }
 
     main .main-info h3 {
@@ -249,7 +269,7 @@ footer nav ul li a {
     main .img-ashutosh {
         float: left;
         margin: 20px;
-        width: 25%;
+        width: 28%;
         padding: 0 20px 0 20px;
     }
 
